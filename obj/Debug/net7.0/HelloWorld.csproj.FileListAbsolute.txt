@@ -1,0 +1,15 @@
+/home/santiz/DotNetProjects/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/santiz/DotNetProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/santiz/DotNetProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/santiz/DotNetProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/santiz/DotNetProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/santiz/DotNetProjects/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
